@@ -1,0 +1,3 @@
+# github-favorites
+
+/* Em andamento */
